@@ -1,2 +1,2 @@
-# golang_projects
+# golang-projects
 my first projects with golang
