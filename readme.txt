@@ -1,6 +1,6 @@
 /*
 	POST http://localhost:8080/user -- create
-/complated/	models user(id,f,i,o,age,ad_id,sutd_id) info relation address(id,full...) sutdy(id,title,startq_date,end_date,status(complate,rejected,inporgress),study_type(bachelor,master...))
+models user(id,f,i,o,age,ad_id,sutd_id) info relation address(id,full...) sutdy(id,title,startq_date,end_date,status(complate,rejected,inporgress),study_type(bachelor,master...))
 
 	GET  http://localhost:8080/users -- get all users
 
